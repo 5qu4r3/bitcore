@@ -57,8 +57,6 @@
     "prepublish": "node browser/build.js -a"
   },
   "dependencies": {
-    "crypto-js": "git://github.com/decred/crypto-js.git#jcv_npm",
-    "crypto-browserify": "git://github.com/decred/crypto-browserify.git#master-legacy",
     "asn1.js": "0.4.1",
     "async": "~0.2.10",
     "bignum": "^0.11.0",
